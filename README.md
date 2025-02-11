@@ -1,4 +1,3 @@
-git clone https://github.com/sikandar10/mystic-tarot.git
 cd mystic-tarot
 ```
 
@@ -7,12 +6,10 @@ cd mystic-tarot
 npm install
 ```
 
-3. Start the development server:
+
 ```bash
 npm run dev
 ```
-
-The application will be available at `http://localhost:5000`.
 
 ## Building for Production
 
